@@ -62,4 +62,4 @@ This folder contains the Stub classes required to do the unitary tests
 * do the test using zend framework;
 
 ----
-Developed By: [Himanshu Patel](hp4137@gmail.com)
+Developed By: <a href="https://www.linkedin.com/pub/himanshu-patel/a/938/80">[Himanshu Patel](hp4137@gmail.com)</a>
