@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Applications/MAMP/htdocs/MerchantTransactionsReport/models/CurrencyWebservice.php</file>
+            <file>file:/Applications/MAMP/htdocs/MerchantTransactionsReport/models/TransactionService.php</file>
+            <file>file:/Applications/MAMP/htdocs/MerchantTransactionsReport/models/CurrencyConverter.php</file>
+            <file>file:/Applications/MAMP/htdocs/MerchantTransactionsReport/models/Transaction.php</file>
+            <file>file:/Applications/MAMP/htdocs/MerchantTransactionsReport/models/TransactionTable.php</file>
+            <file>file:/Applications/MAMP/htdocs/MerchantTransactionsReport/models/DataSourceInterface.php</file>
+            <file>file:/Applications/MAMP/htdocs/MerchantTransactionsReport/README.md</file>
+        </group>
+    </open-files>
+</project-private>
